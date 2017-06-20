@@ -124,3 +124,6 @@ map <leader>V   :CommandT app/views<CR>
 map <leader>M   :CommandT app/models<CR>
 map <leader>C   :CommandT app/controllers<CR>
 map <leader>S   :CommandT spec/<CR>
+
+" remap escape because the touch bar sucks!
+inoremap jj <ESC>
