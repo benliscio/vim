@@ -79,3 +79,6 @@ let g:syntastic_ruby_mri_exec = "~/.rbenv/versions/2.3.0/bin/ruby"
 
 " Turn off markdown folding
 let g:vim_markdown_folding_disabled = 1
+
+" Use JSX syntax .js files
+let g:jsx_ext_required = 0
